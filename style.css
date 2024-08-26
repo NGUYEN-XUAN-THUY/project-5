@@ -1,5 +1,6 @@
 body {
-  background: #38b815;
+  background: linear-gradient(176deg, #38b815, #d32e2e);
+  background-size: 400% 400%;
 }
 
 .search-box {
